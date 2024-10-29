@@ -4,7 +4,6 @@ Welcome to the **Ditty** project! Ditty is a music player platform that allows u
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Technology Stack](#technology-stack)
 - [Setup Instructions](#setup-instructions)
 - [Clone the Repository](#clone-the-repository)
@@ -12,7 +11,7 @@ Welcome to the **Ditty** project! Ditty is a music player platform that allows u
 - [UI and Styling](#ui-and-styling)
 - [Music Player Functionalities](#music-player-functionalities)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - User-friendly interface for easy navigation.
@@ -20,9 +19,6 @@ Welcome to the **Ditty** project! Ditty is a music player platform that allows u
 - Adjustable volume control.
 - Progress bar to track playback and seek to different parts of the track.
 - Display of song title, artist name, and relevant metadata.
-
-## Demo
-Check out the live demo [here](#) (link to your demo, if available).
 
 ## Technology Stack
 - **Frontend:** 
@@ -75,7 +71,6 @@ npm run dev
 - Progress Bar: Implement a progress bar with the ability to seek to different parts of the track.
 - Volume Control: Allow users to adjust volume levels.
 - Song Information: Display song title, artist name, and any other relevant metadata.
-- Additional Functionalities (Optional): If time allows, add features like playlist support or shuffle mode to showcase your skills.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
