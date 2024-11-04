@@ -73,7 +73,7 @@ npm run dev
 - Song Information: Display song title, artist name, and any other relevant metadata.
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit  pull request.
 
 
 
